@@ -73,12 +73,12 @@ body {
 .author {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
 }
 
 .avatar {
-  width: 35px;
-  border-radius: 50%;
+  width: 40px;
+  border-radius: 65%;
 }
 
 .author p {
